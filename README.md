@@ -12,5 +12,7 @@ This is a simple Calculator app which was written on python with help of PyQt5 l
 
 ## Figma
 
+https://www.figma.com/file/0rQ59KTG9aWqb71zhdZEfT/Untitled?node-id=0%3A1
+
 ## Libraries
 [PyQt5](https://pypi.org/project/PyQt5)
